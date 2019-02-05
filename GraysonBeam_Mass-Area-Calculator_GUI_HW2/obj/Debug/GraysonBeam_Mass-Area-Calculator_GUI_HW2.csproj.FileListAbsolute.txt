@@ -18,3 +18,13 @@ C:\Users\Grayson\source\repos\Mass-Calculator\GraysonBeam_Mass-Area-Calculator_G
 C:\Users\Grayson\source\repos\Mass-Calculator\GraysonBeam_Mass-Area-Calculator_GUI_HW2\obj\Debug\GraysonBeam_Mass-Area-Calculator_GUI_HW2.csproj.CoreCompileInputs.cache
 C:\Users\Grayson\source\repos\Mass-Calculator\GraysonBeam_Mass-Area-Calculator_GUI_HW2\obj\Debug\GraysonBeam_Mass-Area-Calculator_GUI_HW2.exe
 C:\Users\Grayson\source\repos\Mass-Calculator\GraysonBeam_Mass-Area-Calculator_GUI_HW2\obj\Debug\GraysonBeam_Mass-Area-Calculator_GUI_HW2.pdb
+C:\Users\grays\Downloads\Mass-Calculator-master\Mass-Calculator-master\GraysonBeam_Mass-Area-Calculator_GUI_HW2\bin\Debug\GraysonBeam_Mass-Area-Calculator_GUI_HW2.exe.config
+C:\Users\grays\Downloads\Mass-Calculator-master\Mass-Calculator-master\GraysonBeam_Mass-Area-Calculator_GUI_HW2\bin\Debug\GraysonBeam_Mass-Area-Calculator_GUI_HW2.exe
+C:\Users\grays\Downloads\Mass-Calculator-master\Mass-Calculator-master\GraysonBeam_Mass-Area-Calculator_GUI_HW2\bin\Debug\GraysonBeam_Mass-Area-Calculator_GUI_HW2.pdb
+C:\Users\grays\Downloads\Mass-Calculator-master\Mass-Calculator-master\GraysonBeam_Mass-Area-Calculator_GUI_HW2\obj\Debug\GraysonBeam_Mass-Area-Calculator_GUI_HW2.csprojAssemblyReference.cache
+C:\Users\grays\Downloads\Mass-Calculator-master\Mass-Calculator-master\GraysonBeam_Mass-Area-Calculator_GUI_HW2\obj\Debug\GraysonBeam_Mass_Area_Calculator_GUI_HW2.Form1.resources
+C:\Users\grays\Downloads\Mass-Calculator-master\Mass-Calculator-master\GraysonBeam_Mass-Area-Calculator_GUI_HW2\obj\Debug\GraysonBeam_Mass_Area_Calculator_GUI_HW2.Properties.Resources.resources
+C:\Users\grays\Downloads\Mass-Calculator-master\Mass-Calculator-master\GraysonBeam_Mass-Area-Calculator_GUI_HW2\obj\Debug\GraysonBeam_Mass-Area-Calculator_GUI_HW2.csproj.GenerateResource.cache
+C:\Users\grays\Downloads\Mass-Calculator-master\Mass-Calculator-master\GraysonBeam_Mass-Area-Calculator_GUI_HW2\obj\Debug\GraysonBeam_Mass-Area-Calculator_GUI_HW2.csproj.CoreCompileInputs.cache
+C:\Users\grays\Downloads\Mass-Calculator-master\Mass-Calculator-master\GraysonBeam_Mass-Area-Calculator_GUI_HW2\obj\Debug\GraysonBeam_Mass-Area-Calculator_GUI_HW2.exe
+C:\Users\grays\Downloads\Mass-Calculator-master\Mass-Calculator-master\GraysonBeam_Mass-Area-Calculator_GUI_HW2\obj\Debug\GraysonBeam_Mass-Area-Calculator_GUI_HW2.pdb
